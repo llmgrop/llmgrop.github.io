@@ -1,1 +1,1 @@
-# Homepage for Paper titled "Robot Task Planning and Situation Handling in Open Worlds"
+# Homepage for Paper titled "Task and Motion Planning with Large Language Models for Object Rearrangement"
